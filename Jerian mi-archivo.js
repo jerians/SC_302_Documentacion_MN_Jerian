@@ -1,2 +1,2 @@
-alert("Hola Jerian, bienvenido a la documentación del software!");
-// Mensaje de Saludo
+alert("Hola Jerian, estamos trabajando con la creacion de un branch!");
+// Mensaje de aviso
